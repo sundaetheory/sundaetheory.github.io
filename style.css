@@ -1,0 +1,32 @@
+body {
+    background: #f7be26;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.about {
+    max-width: 1300px;
+    font-size: 30px;
+}
+
+.libre-baskerville-regular {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.libre-baskerville-bold {
+font-family: "Libre Baskerville", serif;
+font-weight: 700;
+font-style: normal;
+}
+
+.libre-baskerville-regular-italic {
+font-family: "Libre Baskerville", serif;
+font-weight: 400;
+font-style: italic;
+}
