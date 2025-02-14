@@ -7,6 +7,17 @@ nav {
     justify-content: space-between;
     max-width: 1300px;
     width: 100%;
+    font-size: 20px;
+}
+
+.nav-links {
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+}
+
+.nav-item {
+    list-style-type: none;
 }
 
 .home {
@@ -32,13 +43,13 @@ nav {
   }
   
 .libre-baskerville-bold {
-font-family: "Libre Baskerville", serif;
-font-weight: 700;
-font-style: normal;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
 }
 
 .libre-baskerville-regular-italic {
-font-family: "Libre Baskerville", serif;
-font-weight: 400;
-font-style: italic;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: italic;
 }
